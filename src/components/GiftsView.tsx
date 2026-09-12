@@ -129,9 +129,6 @@ export const GiftsView: React.FC = () => {
         <h1 className="text-2xl sm:text-4xl font-black text-[#3D2C2E] font-cute tracking-tight">
           🎁 拆赛博信 & 礼物
         </h1>
-        <p className="text-sm text-[#705D5F] mt-1">
-          点击解开绑着金丝带的礼物盒，查收属于 {BIRTHDAY_GIRL} 的专属特权券与一封真挚的长信！
-        </p>
       </div>
 
       {/* Grid of 4 Grand Surprise Boxes */}
@@ -146,13 +143,13 @@ export const GiftsView: React.FC = () => {
           <div>
             <div className="flex items-center justify-between mb-4">
               <span className="px-3 py-1 rounded-full bg-pink-100 text-pink-700 text-xs font-bold">
-                🎁 重点惊喜 · 挚友心意
+                💌 一信知秋
               </span>
               <span className="text-2xl animate-bounce">💌</span>
             </div>
 
             <h2 className="text-xl font-bold text-[#3D2C2E] mb-2 font-cute">
-              小白菜写给竹子的21岁亲笔信
+              里面装着小白菜想对你说的话，请打开吧！
             </h2>
             <p className="text-xs sm:text-sm text-gray-600 mb-6 leading-relaxed">
               这里装满了从高中、保送教室到现在的点滴心意。愿这封信陪你走过21岁的每一个春夏秋冬。
@@ -201,7 +198,7 @@ export const GiftsView: React.FC = () => {
           <div>
             <div className="flex items-center justify-between mb-4">
               <span className="px-3 py-1 rounded-full bg-amber-100 text-amber-800 text-xs font-bold">
-                🎟️ 实用惊喜 · 专属特权
+                🎟️ 专属权益
               </span>
               <span className="text-2xl animate-bounce">🧋</span>
             </div>
@@ -260,7 +257,7 @@ export const GiftsView: React.FC = () => {
           <div>
             <div className="flex items-center justify-between mb-4">
               <span className="px-3 py-1 rounded-full bg-yellow-100 text-yellow-800 text-xs font-bold">
-                👑 独家荣誉 · 官方认证
+                👑 特别勋章
               </span>
               <span className="text-2xl animate-spin" style={{ animationDuration: '8s' }}>✨</span>
             </div>
@@ -303,7 +300,7 @@ export const GiftsView: React.FC = () => {
           <div>
             <div className="flex items-center justify-between mb-4">
               <span className="px-3 py-1 rounded-full bg-purple-100 text-purple-700 text-xs font-bold">
-                🎰 幸运能量 · 生日签
+                ✨ 好运魔法
               </span>
               <span className="text-2xl">🍀</span>
             </div>

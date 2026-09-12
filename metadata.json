@@ -1,6 +1,6 @@
 {
   "name": "竹子21岁生日快乐",
-  "description": "专为竹子定制的21岁生日互动空间：DIY蛋糕许愿、拆惊喜礼物与挚友亲笔信、时光回忆墙。",
+  "description": "专为竹子定制的21岁生日互动空间：DIY蛋糕许愿、拆惊喜礼物与挚友亲笔信。",
   "requestFramePermissions": ["microphone"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }

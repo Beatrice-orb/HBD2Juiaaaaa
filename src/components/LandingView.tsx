@@ -102,10 +102,10 @@ export const LandingView: React.FC<LandingViewProps> = ({ onNavigate }) => {
               </div>
 
               <h2 className="text-xl sm:text-2xl font-bold text-[#3D2C2E] mb-2 font-cute group-hover:text-pink-600 transition-colors">
-                1. 许愿工坊
+                许愿工坊
               </h2>
               <p className="text-sm sm:text-base text-[#6E5D5F] leading-relaxed mb-4">
-                咋俩是不是还没一起做过蛋糕，不过赛博蛋糕和蜡烛不会有消失的那一天，蜡烛下许下的心愿也不会消失，就像我对你的爱一样～
+                咱俩是不是还没一起做过蛋糕，不过赛博蛋糕和蜡烛不会有消失的那一天，蜡烛下许下的心愿也不会消失，就像我对你的爱一样～
               </p>
             </div>
 
